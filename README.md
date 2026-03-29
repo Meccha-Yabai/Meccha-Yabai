@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300"/>
     <div id="badges">
-        <img src="https://komarev.com/ghpvc/?username=Mecha-Yabai&style=flat-square&color=red" />
+        <img src="https://komarev.com/ghpvc/?username=Meccha-Yabai&style=flat-square&color=red" />
     </div>
     <h1>
         Hello there ! :wave:
@@ -45,4 +45,4 @@ I'm a french developer currently living near Marseille.
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meccha-Yabai&layout=compact&theme=vision-friendly-dark)](https://github.com/Mecha-Yabai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meccha-Yabai&layout=compact&theme=vision-friendly-dark)](https://github.com/Meccha-Yabai/github-readme-stats)
