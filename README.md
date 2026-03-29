@@ -45,4 +45,4 @@ I'm a french developer currently living near Marseille.
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecha-Yabai&layout=compact&theme=vision-friendly-dark)](https://github.com/Mecha-Yabai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meccha-Yabai&layout=compact&theme=vision-friendly-dark)](https://github.com/Mecha-Yabai/github-readme-stats)
