@@ -10,15 +10,15 @@
 
 ### :woman_technologist: About Me :
 
-I'm a full stack developer from :fr:, born in :reunion: and currently living near Marseille.
+I'm a french developer currently living near Marseille.
 
 - :computer: I’m working as a front-end developer & UI/UX designer.
 
 - :paintbrush: Formerly, I worked in web marketing and created social media contents.
 
-- :musical_note: I love music, I listen to it constantly, and I learn to play guitar.
+- :bulb: I’m spontaneous and intuitive, a hands-on learner who enjoys channeling creativity into concrete outcomes.
 
-- :video_game: I'm a huge PlayStation lover since their first console and my fave games are MGS3, GTA San Andreas, The Last of Us and Cyberpunk.
+- :musical_note: Outside of work, I'm passionate about music, gaming and spending time with my dog.
 
 - :soccer: I'm a big fan of Olympique de Marseille :large_blue_circle: :white_circle:.
 
@@ -32,15 +32,13 @@ I'm a full stack developer from :fr:, born in :reunion: and currently living nea
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Xd" alt="Xd" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
 ---
